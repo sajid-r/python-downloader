@@ -30,7 +30,11 @@ python source-crawler-dag.py --file input
 
 
 ## Test
-
+Real Resource Test
 ```
 python tester.py
+```
+Mock Resource Test
+```
+python tester_mock_request.py
 ```
